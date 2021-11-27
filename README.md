@@ -1,10 +1,14 @@
-##Best Matched Restaurants
+## Best Matched Restaurants
 
-##Description
+## Description
 
 - Here I have made a simple search function to search though restaurants based on provided data
 
-##To Test and Run
+## Setup
+
+- npm install
+
+## To Test and Run
 
 - Open search.js and scroll to the bottom
 
